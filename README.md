@@ -179,4 +179,9 @@ Contributions are welcome! If you would like to improve this project:
 - Create a new branch for your feature or bug fix.
 - Submit a pull request with a detailed explanation of your changes.
 
-
+## Author
+<div align="center">
+<a href="https://github.com/NgqvngVinh" target="_blank">
+  <img src="https://github.com/NgqvngVinh.png" alt="Avatar của tôi" width="60" style="border-radius: 50%;">
+</a>
+</div>
