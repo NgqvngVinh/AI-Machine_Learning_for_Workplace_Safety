@@ -29,23 +29,27 @@ This repository demonstrates the outcomes (illustration) of the project, where w
 - **Description:**  
   The AI system detects when essential safety gear is missing and sends an instant alert to supervisors.
 - **RESULT:**
------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/0fc0a5d7-3c85-499f-bff6-6f00e7d2ed09" alt="Image" style="max-width:400px;"><br>
-      <a href="https://drive.google.com/file/d/1uZVfHp9Ozv-E5JeqSxvioz4LID68796z/view?usp=sharing">Oriented Bounding Box-Single Object</a>
+      <img src="https://github.com/user-attachments/assets/0fc0a5d7-3c85-499f-bff6-6f00e7d2ed09" alt="Image" style="max-width:500px;"><br>
+      <a href="https://drive.google.com/file/d/1uZVfHp9Ozv-E5JeqSxvioz4LID68796z/view?usp=sharing">Oriented 2D Bounding Box-Single Object</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b145b428-993a-43e4-982c-0ce5d5b66f82" alt="Image" style="max-width:300px;"><br>
-      <a href="https://drive.google.com/file/d/19lpnCCVyU8uwEltai_TQamfRccufaTpc/view?usp=sharing">Oriented Bounding Box-Multi Object</a>
+      <img src="https://github.com/user-attachments/assets/b145b428-993a-43e4-982c-0ce5d5b66f82" alt="Image" style="max-width:500px;"><br>
+      <a href="https://drive.google.com/file/d/19lpnCCVyU8uwEltai_TQamfRccufaTpc/view?usp=sharing">Oriented 2D Bounding Box-Multi Object 1</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c15b0713-043c-4aa7-b78e-0a862f78f8b5" alt="Image" style="max-width:500px;"><br>
+      <a href="https://drive.google.com/file/d/1kVVWp92PEKI4f0ZZxPNUAjiAo_Yfr6Ti/view?usp=sharing">Oriented 2D Bounding Box-Multi Object 2</a>
     </td>
   </tr>
 </table>
 
 
 
-  --------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------
   
   ![Image](https://github.com/user-attachments/assets/1a87d790-b2ef-4fd2-960c-612bc90a184d)
 
@@ -53,7 +57,7 @@ This repository demonstrates the outcomes (illustration) of the project, where w
   <a href="https://drive.google.com/file/d/1cfB8La54vsUN23Gm1juyfRsneBOwS861/view?usp=sharing">Detect Gloves</a>
 </p>
 
-  ---------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------
   
 ### 2. Attendance Checking
 - **Description:**  
@@ -61,7 +65,7 @@ This repository demonstrates the outcomes (illustration) of the project, where w
 - **RESULT:**
 
   
-   ---------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------
 
   
 <table>
@@ -83,7 +87,7 @@ This repository demonstrates the outcomes (illustration) of the project, where w
 
 
 
---------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 
 <p align="left">
@@ -94,7 +98,7 @@ This repository demonstrates the outcomes (illustration) of the project, where w
   <a href="https://drive.google.com/file/d/10XNzQmqHLbXP0m8IqhA_vULauLyDSXhg/view?usp=sharing">2D-Path Tracking (Object Detection module combined with Positional Tracking)</a>
 </p>
 
--------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 
 <p align="left">
@@ -105,7 +109,7 @@ This repository demonstrates the outcomes (illustration) of the project, where w
   <a href="https://drive.google.com/file/d/1Vq03UE4xT31C9A9bUoRnHUZ5scvhwWJ_/view?usp=sharing">Skeletal Mapping</a>
 </p>
 
---------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 <table>
   <tr>
@@ -126,7 +130,7 @@ This repository demonstrates the outcomes (illustration) of the project, where w
 
 
 
-------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 ### 3. Collision Detection
 - **Description:**  
@@ -141,7 +145,7 @@ This repository demonstrates the outcomes (illustration) of the project, where w
   <a href="https://drive.google.com/file/d/1mmzJ1swOASvycPc1MHiX0xkx3YdBF2yl/view?usp=sharing">Collision 2D Bounding Boxes Detection</a>
 </p>
 
---------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 ### 4. Monitoring Restricted Areas
 - **Description:**  
@@ -157,7 +161,7 @@ This repository demonstrates the outcomes (illustration) of the project, where w
   <a href="https://drive.google.com/file/d/1KI23bDyp1kJJyESqbUqkN2yBLVCTc7nc/view?usp=sharing">Restricted Areas Monitoring</a>
 </p>
 
---------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 ## Project Showcases
 My team and I have showcased our project at two competitions. Please refer to the attached slides and posters for further insight into our work.
 - **Slides:**  
