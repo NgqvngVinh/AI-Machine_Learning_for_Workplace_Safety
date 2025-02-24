@@ -90,24 +90,23 @@ This repository demonstrates the outcomes (illustration) of the project, where w
 -----------------------------------------------------------------------------------------------------------
 
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/852547ad-d084-4a65-906b-7d0dea06c2a9" alt="Image" style="width:400px;">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/852547ad-d084-4a65-906b-7d0dea06c2a9" alt="Image" style="width:300px;"><br>
+      <p style="font-size:14px;">
+        <a href="https://drive.google.com/file/d/10XNzQmqHLbXP0m8IqhA_vULauLyDSXhg/view?usp=sharing">2D-Path Tracking</a>
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0305aac2-308f-4b79-8102-38d4a9f039c2" alt="Image" style="max-width:500px;"><br>
+      <p style="font-size:14px;">
+        <a href="https://drive.google.com/file/d/1Vq03UE4xT31C9A9bUoRnHUZ5scvhwWJ_/view?usp=sharing">2D Bounding Box Skeletal Mapping</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p style="font-size:14px;">
-  <a href="https://drive.google.com/file/d/10XNzQmqHLbXP0m8IqhA_vULauLyDSXhg/view?usp=sharing">2D-Path Tracking (Object Detection module combined with Positional Tracking)</a>
-</p>
-
------------------------------------------------------------------------------------------------------------
-
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/0305aac2-308f-4b79-8102-38d4a9f039c2" alt="Image" style="max-width:500px;">
-</p>
-
-<p style="font-size:14px;">
-  <a href="https://drive.google.com/file/d/1Vq03UE4xT31C9A9bUoRnHUZ5scvhwWJ_/view?usp=sharing">Skeletal Mapping</a>
-</p>
 
 -----------------------------------------------------------------------------------------------------------
 
